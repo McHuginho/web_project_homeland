@@ -179,9 +179,7 @@
   .place {
     width: 320px;
     height: 1169px;
-    padding: 92px 0;
-    padding-bottom: 0;
-    padding-top: 0;
+    padding: 0;
     grid-template-columns: repeat(1, 1fr);
   }
 
